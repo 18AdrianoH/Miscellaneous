@@ -1,0 +1,19 @@
+#settings for the game
+
+#visual settings
+
+Resolution: 1920 by 1080		#width, length
+Fullscreen: true		#true or false
+Framerate (cap): 60		#sets the framerate, much is programmed to work every n frames,
+						#so it's not recommended to alter this setting
+
+#Audio Settings
+Music: true 		#true or false
+Global Volume: 100 		#from 0 to 100 percent
+Music Volume: 100 		#from 0 to 100 percent
+SFX Volume: 100 		#from 0 to 100 percent
+
+#Miscellaneous settings
+
+#nothing here right now
+#everything after a hash mark within a line is a comment
